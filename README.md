@@ -8,7 +8,7 @@
 
 - 🔭 I am currently doing residency in Alfa Gamma Polystyrene - 'Carrying out an Infrastructure project.
 - 🌱 I am currently learning about the infrastructure in general, from regulations to equipment configurations
-- 🌟 Main languages: Java, C++, Android, html, CSS.
+- 🌟 Main languages: Java, C++, html, CSS.
 - 📫 Email me at [aguilarrosales0105@gmail.com](mailto:aguilarrosales0105@gmail.com).
 
   <summary>Tools</summary>
